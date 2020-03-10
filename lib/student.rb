@@ -1,5 +1,5 @@
-class Student 
-  def hello 
+class Student
+  def hello
 
   end
   
